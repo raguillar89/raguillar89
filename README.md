@@ -15,9 +15,9 @@ Hi ! 👋
 
 ### Github Status
  <div>
-<p><img align="left" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raguillar89&show_icons=true&locale=en&layout=compact" alt="raguillar89" /></p>
+<p><img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raguillar89&show_icons=true&locale=en&layout=compact" alt="raguillar89" /></p>
 
-<p>&nbsp;<img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=raguillar89&show_icons=true&locale=en" alt="raguillar89" /></p>
+<p>&nbsp;<img align="left" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=raguillar89&show_icons=true&locale=en" alt="raguillar89" /></p>
 </div>
 
 <hr>
