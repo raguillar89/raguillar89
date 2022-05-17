@@ -33,15 +33,18 @@ Hi ! 👋
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 
+</div>
+ 
 ### Tools: 
+<div style="display: inline_block" align:"center"><br>
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Visual Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
-   
-</div>
+
+</div>   
 
 <!---
 raguillar89/raguillar89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
