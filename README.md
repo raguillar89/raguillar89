@@ -22,7 +22,7 @@ Hi ! 👋
 
 <hr>
 
-### Technologies, languages & tools: 
+### Technologies, Languages & Tools: 
 <div style="display: inline_block" align:"center"><br>
   
 <p>
