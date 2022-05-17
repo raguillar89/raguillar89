@@ -17,9 +17,11 @@ Hi ! 👋
 
 
 ### Github Status
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoalmeida6&show_icons=true&locale=en&layout=compact" alt="leoalmeida6" /></p>
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalmeida6&show_icons=true&locale=en" alt="leoalmeida6" /></p>
+<div>
+  <a href="https://github.com/omayconmendes">
+  <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=omayconmendes&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omayconmendes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=react"/>
+</div>
 
 <hr>
 
