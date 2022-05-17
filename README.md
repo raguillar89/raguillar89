@@ -23,7 +23,7 @@ Hi ! 👋
 <hr>
 
 ### Technologies & Languages: 
-<div style="display: inline_block" align:"center"><br>
+<div align:"center"><br>
 
  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C#" height="40" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-plain.svg">
@@ -36,7 +36,7 @@ Hi ! 👋
 </div>
  
 ### Tools: 
-<div style="display: inline_block" align:"center"><br>
+<div align:"center"><br>
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
