@@ -3,7 +3,7 @@ Hi ! 👋
   * Brazilian Engineer, Administrator and Development Student, based in Rio de Janeiro, RJ;
   * I'm learning about Web development using HTML5, CSS3, Javascript, Angular and Java;
       
-<div align="center">       
+<div>       
   <a href = "mailto:renan_aguillar_pinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-pinho-872a2149" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -12,10 +12,10 @@ Hi ! 👋
 
 
 ### Github Status
-<div>
+<div align="center">
   <a href="https://github.com/raguillar89">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=raguillar89&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguillar89&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=dark"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=raguillar89&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguillar89&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=dark"/>
 </div>
 <hr>
 
