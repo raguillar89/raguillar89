@@ -16,7 +16,7 @@ Hi ! 👋
 ### Github Status
 <div>
   <a href="https://github.com/raguillar89">
-  <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=raguillar89&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img  width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=raguillar89&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguillar89&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=react"/>
 </div>
 
@@ -25,7 +25,7 @@ Hi ! 👋
 ### Technologies, languages & tools: 
 <div style="display: inline_block" align:"center"><br>
   
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="C#" height="40" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-plain.svg">
  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
