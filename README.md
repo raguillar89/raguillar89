@@ -1,7 +1,7 @@
 Hi ! 👋
 # I'm Renan Pinho 
   * Brazilian Engineer, Administrator and Development Student, based in Rio de Janeiro, RJ;
-  * I'm learning about Web development using HTML5, CSS3, Javascript, Angular and Java;
+  * I'm learning about Development using HTML5, CSS3, Javascript, Angular and Java;
       
 <div>       
   <a href = "mailto:renan_aguillar_pinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
